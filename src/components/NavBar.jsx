@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" width={100} />
-      <p>GenAI - Image Generator</p>
+      <p>AI ImageWala - Image Generator</p>
       <a
         className="App-link"
         href="https://www.segmind.com/"
@@ -16,6 +16,6 @@ const NavBar = () => {
       </a>
     </header>
   );
-}
+};
 
 export default NavBar;

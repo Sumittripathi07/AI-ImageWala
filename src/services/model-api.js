@@ -1,7 +1,9 @@
 import axios from "axios";
 import { secret } from "../secret";
-
 const { apiKey } = secret;
+
+// require("dotenv").config();
+// const apiKey = process.env.API_KEY;
 
 export const fetchImages = async (
   promptCall,

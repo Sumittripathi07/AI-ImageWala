@@ -166,7 +166,7 @@ const Home = () => {
         onSelect={handleAvailOptions}
       />
       <div className="slideShowMessage">{loaderMessage}</div>
-      <div className="footer">Powered by SegMind</div>
+      <div className="footer">By: @Sumittripathi07</div>
     </div>
   );
 };

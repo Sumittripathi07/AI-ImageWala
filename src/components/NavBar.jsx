@@ -8,11 +8,11 @@ const NavBar = () => {
       <p>AI ImageWala - Image Generator</p>
       <a
         className="App-link"
-        href="https://www.segmind.com/"
+        href="https://www.linkedin.com/in/sumittripathi07/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        SegMind
+        @Sumittripathi07
       </a>
     </header>
   );

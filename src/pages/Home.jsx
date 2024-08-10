@@ -166,7 +166,12 @@ const Home = () => {
         onSelect={handleAvailOptions}
       />
       <div className="slideShowMessage">{loaderMessage}</div>
-      <div className="footer">By: @Sumittripathi07</div>
+      <div className="footer">
+        By:{""}&nbsp;
+        <a href="https://www.linkedin.com/in/sumittripathi07/">
+          @Sumittripathi07
+        </a>{" "}
+      </div>
     </div>
   );
 };
